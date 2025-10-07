@@ -181,11 +181,20 @@ a{
   border-radius: 4px;
   background-color: #f4f4fd;
   margin-bottom: 8px;
-  flex-basis: calc((100% - 72px) / 4);
-  padding: 40px;
 }
 
-
+.icon-icon{
+  display: flex;
+  width: 264px;
+  height: 112px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background-color: #f4f4fd;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+  flex-basis: calc((100% - 72px) / 4);
+}
 
 .feature-title {
   font-size: 20px;
