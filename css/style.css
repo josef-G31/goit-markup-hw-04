@@ -176,11 +176,6 @@ a{
 
 .features-item {
   width: 264px;
-  height: 112px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  background-color: #f4f4fd;
-  margin-bottom: 8px;
 }
 
 .icon-icon{
@@ -214,7 +209,6 @@ a{
 .main-team-section {
   background-color: rgba(244, 244, 253, 1);
   text-align: center;
-  margin-top: 120px;
   padding: 120px;
 }
 
